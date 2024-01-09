@@ -24,6 +24,6 @@ quart==0.17.0
 taskgroup==0.0.0a4
 toml==0.10.2
 tomli==2.0.1
-Werkzeug==2.3.0
+Werkzeug==2.3.8
 wrapt==1.16.0
 wsproto==1.2.0
