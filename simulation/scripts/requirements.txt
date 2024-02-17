@@ -1,4 +1,4 @@
-cryptography==41.0.6
+cryptography==42.0.2
 pandas==1.5.0
 matplotlib==3.6.0
 seaborn==0.12.0
